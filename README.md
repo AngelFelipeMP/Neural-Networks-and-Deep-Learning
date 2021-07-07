@@ -52,7 +52,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 ![Image of Yaktocat](Neural%20Networks%20and%20Deep%20Learning/Certificate.png)
 
-# Milestones
+## Milestones
 
 * Finished the first-released 1 course! :stuck_out_tongue_winking_eye:
 
