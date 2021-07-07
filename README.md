@@ -12,7 +12,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 ## Course 1: Neural Networks and Deep Learning
 
-* Week 2 - PA 1 - Python Basics with Numpy
+* [Week 2 - PA 1 - Python Basics with Numpy](Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Certificate.png/Week2/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb)
 * Week 2 - PA 2 - Logistic Regression with a Neural Network mindset
 * Week 3 - PA 3 - Planar data classification with one hidden layer
 * Week 4 - PA 4 - Building your Deep Neural Network: Step by Step
@@ -53,6 +53,6 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 # Certificates
 
-![Image of Yaktocat](...../Certificate.png)
+![Image of Yaktocat](Neural%20Networks%20and%20Deep%20Learning/Certificate.png)
 
 <!-- <img src="Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.png" width="800"> -->
